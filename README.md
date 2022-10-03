@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey guys ! 👋
 
-<!--
-**GabrielBoubee/GabrielBoubee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+My name is **Gabriel**, a passionate front developer & a lover of **UI/UX design** !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...ff
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working** on a Javascript / Symfony project for my company.
+
+📫 **How to reach me :** inbox me at **gabrielboubee@gmail.com** or visit my [**portfolio**](https://gabrielboubee.github.io/) ! 
+
+⚡ **About Me :** I love electronic music, and i produce with some synth et drum machine ! Analog is the must !!!
+
+---
+
+## Technologies 💻
