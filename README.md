@@ -1,7 +1,7 @@
 # Hey guys ! 👋
 
 
-My name is **Gabriel**, a passionate front developer & a lover of **UI/UX design** !
+My name is **Gabriel**, a passionate front developer & a lover of **UI/UX design** & **Abstract Art** !
 
 🔭 **I’m currently working** on a Javascript / Symfony project for my company.
 
